@@ -1,0 +1,3 @@
+[submodule "uart_to_i2c"]
+	path = uart_to_i2c
+	url = https://gitlab.espressif.cn:6688/fpga_verification/uart_to_i2c.git
